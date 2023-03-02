@@ -1,0 +1,20 @@
+package com.forloop;
+
+public class countoddnumbersbetween1to10 
+{
+
+	public static void main(String[] args) 
+	{
+		int count = 0;
+		for (int i = 1; i <= 10; i++) {
+		    if (i % 2 != 0) 
+		    {
+		        count++;
+		    }
+		}
+		System.out.println("Number of odd numbers between 1 and 10: " + count);
+
+
+	}
+
+}
