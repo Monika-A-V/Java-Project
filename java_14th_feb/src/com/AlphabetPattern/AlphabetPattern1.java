@@ -22,7 +22,8 @@ public class AlphabetPattern1
 		{
 			System.out.print(j);
 		}
-		else {
+		else 
+		{
 			System.out.print(" ");
 		}
 		}

@@ -1,3 +1,4 @@
+
 package com.whileloop;
 
 import java.util.Scanner;

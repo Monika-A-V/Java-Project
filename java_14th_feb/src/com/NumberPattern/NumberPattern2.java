@@ -5,6 +5,7 @@ package com.NumberPattern;
 1 2 3
 1 2 3 4
 1 2 3 4 5
+
 */
 
 import java.util.Scanner;
