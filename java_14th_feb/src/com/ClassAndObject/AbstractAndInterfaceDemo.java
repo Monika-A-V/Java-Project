@@ -18,22 +18,19 @@ class ChildClass extends AbstractClass implements MyInterface
      this.num1 = num1;
  }
 
- public void performAddition() 
+public void performAddition() 
  {
      int sum = this.num1 + MyInterface.num;
-     System.out.println("Sum of num and MyInterface.num = " + sum);
+     System.out.println("Sum of num1 and MyInterface.num = " + sum);
  }
 }
 public class AbstractAndInterfaceDemo 
 {
-
-	public static void main(String[] args)
+  public static void main(String[] args)
 	{
-		
-        ChildClass child = new ChildClass();
+		ChildClass child = new ChildClass();
 		child.setNum(10);
-		child.performAddition(); // Output: Sum of num and MyInterface.num = 15
-
+		child.performAddition(); 
 	}
 
 }
