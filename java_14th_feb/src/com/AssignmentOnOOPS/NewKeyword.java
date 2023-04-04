@@ -1,4 +1,4 @@
-package AssignmentOnOOPS;
+package com.AssignmentOnOOPS;
 
 
 class Student1

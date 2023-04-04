@@ -1,4 +1,4 @@
-package StringDemo;
+package com.StringDemo;
 
 public class AverageOfDigitFromString {
 

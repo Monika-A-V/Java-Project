@@ -1,4 +1,4 @@
-package AssignmentOnOOPS;
+package com.AssignmentOnOOPS;
 
 public class AnonymousObjectDemo
 {
