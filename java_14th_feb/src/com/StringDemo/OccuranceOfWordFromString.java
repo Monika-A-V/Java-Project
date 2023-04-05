@@ -1,10 +1,10 @@
 package com.StringDemo;
 
+public class OccuranceOfWordFromString 
+{
 
-public class OccuranceOfWordFromString {
-
-
-	public static void main(String[] args) {
+    public static void main(String[] args)
+    {
 
 		String s="hello java hello java";
 		
@@ -19,8 +19,7 @@ public class OccuranceOfWordFromString {
 				{
 					count++;
 					str[j]="\n";
-				}
-				}
+				}}
 			if(str[i]!="\n")
 			{
 				System.out.println("occurance of word : "+str[i]+ " "+count);
