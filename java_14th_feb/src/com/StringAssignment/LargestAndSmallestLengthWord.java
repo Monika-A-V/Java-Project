@@ -4,7 +4,7 @@ public class LargestAndSmallestLengthWord {
 
 	public static void main(String[] args) {
 
-		String s="this is to java programming";
+		String s="this is an umbrella mumbaiut";
 		String str[]=s.split(" ");
 		String shortest=str[0];
 		String longest="";

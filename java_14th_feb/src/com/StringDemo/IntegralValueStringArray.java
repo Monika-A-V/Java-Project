@@ -1,11 +1,13 @@
 package com.StringDemo;
 
+import java.util.Arrays;
 import java.util.Scanner;
 public class IntegralValueStringArray
 {
 
 	public static void main(String[] args)
 	{
+	
 		String[] s = {"A+2", "D+3", "B+7", "E+1"};
 
 		for (int i=0; i<s.length; i++) 

@@ -1,4 +1,4 @@
-package com.Test_Loop_1;
+package com.Test_1;
 import java.util.*;
 
 //write a java program 1!+2!+3!+4!...n to find sum

@@ -1,4 +1,4 @@
-package com.Test_Loop_1;
+package com.Test_1;
 import java.util.*;
 public class SpyNumber_4 
 {
