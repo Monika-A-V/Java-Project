@@ -1,6 +1,8 @@
 
 package com.ArrayDemo;
 
+import java.util.Arrays;
+
 public class UniqueElementOccurance {
 
 	public static void main(String[] args) {

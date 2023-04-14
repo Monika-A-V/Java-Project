@@ -21,7 +21,7 @@ public class DuplicateElementOccurance {
 
 		            if(count>1) 
 		            {
-		            	System.out.println(array[i]);
+		            	System.out.println(array[i]+" "+count);
 		                //System.out.println("Element " + array[i] + " occurs " + count + " times.");
 		            }
 		        }

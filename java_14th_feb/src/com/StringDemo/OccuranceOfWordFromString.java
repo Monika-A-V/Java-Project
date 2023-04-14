@@ -22,7 +22,7 @@ public class OccuranceOfWordFromString
 				}}
 			if(str[i]!="\n")
 			{
-				System.out.println("occurance of word : "+str[i]+ " "+count);
+				System.out.println("occurance of word : "+str[i]+" "+count);
 			}
 		}
 	}

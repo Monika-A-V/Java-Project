@@ -19,7 +19,8 @@ public class Q5
 	    {
 	        int sumFirstThree = 0;
 	        int sumLastThree = 0;
-	        for (int i = 0; i < 3; i++) {
+	        for (int i = 0; i < 3; i++) 
+	        {
 	            sumFirstThree += Character.getNumericValue(s.charAt(i));
 	            sumLastThree += Character.getNumericValue(s.charAt(s.length() - 1 - i));
 	        }

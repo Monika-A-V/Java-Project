@@ -1,4 +1,3 @@
-
 package com.Logical_Programs;
 import java.util.*;
 
@@ -25,6 +24,7 @@ public class CheckPrimeNumber
         }
         if(isPrime==true)
         {
+
         	System.out.println("prime number");
         	
         }
