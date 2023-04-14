@@ -1,6 +1,5 @@
 package com.ExceptionHandlingDemo;
 
-
 class InvalidPassException extends Exception
 {
 	InvalidPassException(String str)
