@@ -65,8 +65,8 @@ public class UniqueElementOccurance {
 	                if (counts[i] == 1) {
 	                    System.out.println(arr[i] + " occurs " + counts[i] + " time.");
 	                }
-	                /*else {
-	                    System.out.println(arr[i] + " occurs " + counts[i] + " times.");
-	                }*/
+	                else {
+	                    System.out.println(arr[i]+" "+counts[i]);
+	                }
 	            }
 	        }}}

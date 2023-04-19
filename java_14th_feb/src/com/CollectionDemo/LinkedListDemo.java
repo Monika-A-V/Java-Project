@@ -24,12 +24,12 @@ public class LinkedListDemo {
 		//System.out.println(list.poll());
 		//System.out.println(list);
 		
-		list.clear();
+		/*list.clear();
 		System.out.println(list);
 		
 		System.out.println(list.removeFirst());
 		
-		System.out.println(list.pollFirst());
+		System.out.println(list.pollFirst());*/
 	}
 
 }

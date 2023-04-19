@@ -4,7 +4,8 @@ import java.util.Scanner;
 
 public class DuplicateWordsFromString {
 
-	public static void main(String[] args) {
+	public static void main(String[] args)
+	{
 
 		String s;
 		Scanner sc=new Scanner(System.in);
@@ -20,8 +21,8 @@ public class DuplicateWordsFromString {
 			for(int j=i+1;j<s1.length;j++)
 			{
 				if(s1[i].equals(s1[j]))
-						{
-					System.out.println(s1[i]);
+			{
+				System.out.println(s1[i]);
 						}
 			}
 		}

@@ -38,6 +38,7 @@ public class StringSortByLength
 		Scanner sc=new Scanner(System.in);
 		System.out.println("enter string");
 		
+
 		String str=sc.nextLine();
 		StringSortByLength s1=new StringSortByLength();
 		s1.sortByLength(str);

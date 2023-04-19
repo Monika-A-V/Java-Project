@@ -17,10 +17,15 @@ public class ListToArray {
 		System.out.println(al);
 		
 		
-		System.out.println(",,,,,Array1,,,,,,,");
-		//Object o[]=al.toArray();
+		System.out.println(",,,,,Object Array1,,,,,,,");
+		Object o[]=al.toArray();
+		for(Object o1:o)
+		{
+		}
+		System.out.println(Arrays.toString(o));
+
 		//or
-		
+		System.out.println(",,,,,,,Array2,,,,,,,");
 		Integer array[]=al.toArray(new Integer[al.size()]);
 		
 		for(int i=0;i<array.length;i++)
@@ -28,7 +33,7 @@ public class ListToArray {
 			System.out.println(array[i]);
 		}
 		
-		System.out.println(",,,,,Array2,,,,,,");
+		System.out.println(",,,,,Array3,,,,,,");
 		
 		Integer a[]=new Integer[al.size()];
 		
@@ -37,6 +42,8 @@ public class ListToArray {
 			a[i]=al.get(i);
 		}
 		System.out.println(Arrays.toString(a));
+		
+		
 	}
 
 }

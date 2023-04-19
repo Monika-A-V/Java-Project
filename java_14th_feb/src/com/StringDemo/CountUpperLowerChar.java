@@ -4,7 +4,7 @@ public class CountUpperLowerChar {
 
 	public static void main(String[] args) {
 
-		String s="MoNiKa";
+		String s="monIKA";
 		int upper=0;
 		int lower=0;
 		char ch[]=s.toCharArray();
