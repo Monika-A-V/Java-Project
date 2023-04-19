@@ -1,8 +1,8 @@
-package com.CollectionDemo;
+package com.CollectionArrayListDemo;
 
 import java.util.ArrayList;
 
-public class ArrayListCity {
+public class ArrayListCityOccurance {
 
 	public static void main(String[] args) {
 
