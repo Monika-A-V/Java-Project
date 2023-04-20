@@ -27,7 +27,6 @@ class Student
 
 public class StudentMap
 {
-
 	public static void main(String[] args)
 	{
 		HashMap<Integer,ArrayList<Student>> hm = new HashMap<>();
