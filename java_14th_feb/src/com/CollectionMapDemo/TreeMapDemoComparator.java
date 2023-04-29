@@ -32,7 +32,7 @@ public class TreeMapDemoComparator {
 			System.out.println(m.getKey()+" "+m.getValue());
 		}
 		
-		NavigableMap m=tm.descendingMap();
+		/*NavigableMap m=tm.descendingMap();
 		System.out.println(m);
 		
 		System.out.println(tm.ceilingEntry(56));
@@ -52,7 +52,7 @@ public class TreeMapDemoComparator {
 		System.out.println(",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,");
 		System.out.println(tm);
 		System.out.println(tm.pollFirstEntry());
-		System.out.println(tm);
+		System.out.println(tm);*/
 	}
 
 }
