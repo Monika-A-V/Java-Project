@@ -1,4 +1,4 @@
-package CRUD_OPERATION;
+package CRUD_OPERATION_PROJECT;
 import java.util.Scanner;
 
 class Employee 
