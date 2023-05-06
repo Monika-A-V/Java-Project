@@ -89,13 +89,11 @@ public class HashMapSort {
 							Integer i=map.getKey();
 							
 							lh.put(i, st);
-							
-								}
+							}
 					}
 				}
 				
-				System.out.println(lh);
+			    System.out.println(lh);
 
 			}
-
-		}
+}
