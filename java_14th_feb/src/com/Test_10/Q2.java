@@ -1,5 +1,7 @@
 package com.Test_10;
 
+import java.util.HashMap;
+
 //what is output of this code
 
 class Base
