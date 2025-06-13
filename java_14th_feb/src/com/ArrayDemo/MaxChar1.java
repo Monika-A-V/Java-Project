@@ -13,7 +13,7 @@ public class MaxChar1
 				mchar=c[i];
 			}
 		}
-			System.out.println(mchar);
+			System.out.println("mchar is : "+mchar);
 		}
 		
 	public static void main(String[] args) 

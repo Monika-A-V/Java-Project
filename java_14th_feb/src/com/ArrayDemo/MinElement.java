@@ -19,6 +19,7 @@ public class MinElement {
 			}
 		}
 				System.out.println(min);
+				
 			}
 		}
 	

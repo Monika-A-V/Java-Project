@@ -1,3 +1,4 @@
+
 package com.ArrayDemo;
 
 public class OccuranceOfChar 

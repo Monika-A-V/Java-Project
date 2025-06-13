@@ -8,7 +8,7 @@ class ThisKeywordConstructor
 
     public ThisKeywordConstructor()
     {
-        this("John Doe");
+        this("mona");
     }
 
     public ThisKeywordConstructor(String name)
@@ -32,8 +32,8 @@ class ThisKeywordConstructor
     public static void main(String[] args) 
     {
         ThisKeywordConstructor obj1 = new ThisKeywordConstructor(); 
-        ThisKeywordConstructor obj2 = new ThisKeywordConstructor("Alice"); 
-        ThisKeywordConstructor obj3 = new ThisKeywordConstructor("Bob", 30); 
+        ThisKeywordConstructor obj2 = new ThisKeywordConstructor("ram"); 
+        ThisKeywordConstructor obj3 = new ThisKeywordConstructor("sham", 30); 
         ThisKeywordConstructor obj4 = new ThisKeywordConstructor("Charlie", 35, 6.0); 
         
        
